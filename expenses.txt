@@ -1,0 +1,8 @@
+2,2026-09-01,Processings,Police Clearance Fee,1500
+3,2026-07-14,Health,OPD,5000.0
+3,2026-07-14,Edu,Fees,10000.0
+4,2026-07-07,Shopping,Pant,9000
+5,2027-07-07,A,B,100
+1,2026-07-27,Social,Donation,7000.0
+10,10,10,10,10
+7,2026-07-07,Supply,Grosarries,15000.0
